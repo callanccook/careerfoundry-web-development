@@ -1,13 +1,26 @@
 .jumbotron {
-	background-image: url("../img/leaf.jpg");
+	background-image: url("../img/mountains2.jpg");
 	background-size: cover;
 }
 
 .jumbotron p {
-	color: white;
+	color: #223451;
 }
 
 .container a {
-  color: white;
-  background: orange;
+  color: #223451;
+}
+
+p,
+a,
+h2 {
+  color: #223451;
+}
+
+.jumbotron h1 {
+  color: #223451;
+}
+
+body {
+  background-color: #dcdfe5;
 }
